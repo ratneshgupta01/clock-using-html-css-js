@@ -1,6 +1,6 @@
 .clockcontainer{
     background: url(clock.png) no-repeat center center/cover;
-    border: 2px solid red;
+    
     height: 60vh;
     width: 60vh;
     margin: auto;
